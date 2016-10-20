@@ -1,0 +1,5 @@
+/home/anyel/Documentos/C# Projetcs/Desencriptador/Decrypting_CMD/Decrypting_CMD/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/anyel/Documentos/C# Projetcs/Desencriptador/Decrypting_CMD/Decrypting_CMD/bin/Debug/Decrypting_CMD.exe.mdb
+/home/anyel/Documentos/C# Projetcs/Desencriptador/Decrypting_CMD/Decrypting_CMD/bin/Debug/Decrypting_CMD.exe
+/home/anyel/Documentos/C# Projetcs/Desencriptador/Decrypting_CMD/Decrypting_CMD/obj/x86/Debug/Decrypting_CMD.exe
+/home/anyel/Documentos/C# Projetcs/Desencriptador/Decrypting_CMD/Decrypting_CMD/obj/x86/Debug/Decrypting_CMD.exe.mdb
